@@ -17,4 +17,4 @@ By overriding these callback methods and displaying messages (e.g., using Toast 
 | ![Logcat Screenshot](https://github.com/RIDHAMPATEL132/MAD_23012021041_Practical2/blob/master/screenshot/logcat.png) | The **Logcat output** clearly shows the sequence of Activity Life Cycle methods being called, such as `onCreate()`, `onStart()`, `onResume()`, `onPause()`, `onStop()`, and `onDestroy()`.  |
 
 ## ✅ Result
-Final result or conclusion of this practical.
+The Android application was successfully created to demonstrate the Activity Life Cycle and Basic UI components.
