@@ -11,7 +11,7 @@ By overriding these callback methods and displaying messages (e.g., using Toast 
 
 
 ## 📸 Screenshots
-![App UI](screenshots/output1.png)  
+![Logcat](https://github.com/RIDHAMPATEL132/MAD_23012021041_Practical2/blob/master/screenshot/logcat.png)|Logcat
 ![App Output](screenshots/output2.png)
 
 ## ✅ Result
